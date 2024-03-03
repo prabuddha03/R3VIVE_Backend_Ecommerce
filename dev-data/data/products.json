@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Low Faucet Shower Head",
+        "type": "Carbon",
+        "Description": "Lowering the Co2 footprint by reducing water usage in shower",
+        "features": [
+            "Low Water Usage",
+            "Automated water Quality"
+        ],
+        "price": 699,
+        "imageCover": "lowFaucetHead.jpg",
+        "dimensions": "5 x 5 x 1 inches",
+        "weight": "0.5 pounds",
+        "seller": "Akshay Kumar"
+    },
+    {
+        "name": "Recycled Plastic Desk Organizer",
+        "type": "Plastic",
+        "Description": "Organize your desk sustainably with this recycled plastic organizer",
+        "features": [
+            "Multiple Compartments",
+            "Durable Construction"
+        ],
+        "price": 29.99,
+        "imageCover": "recycledDeskOrganizer.jpg",
+        "dimensions": "10 x 6 x 3 inches",
+        "weight": "0.8 pounds",
+        "seller": "Green Living Store"
+    },
+    {
+        "name": "Eco-Friendly Reusable Water Bottle",
+        "type": "Plastic",
+        "Description": "Stay hydrated and reduce plastic waste with this reusable water bottle",
+        "features": [
+            "BPA-Free",
+            "Leak-Proof Design"
+        ],
+        "price": 19.99,
+        "imageCover": "recycledWaterBottle.jpg",
+        "dimensions": "3 x 3 x 10 inches",
+        "weight": "0.3 pounds",
+        "seller": "Earthwise Products"
+    },
+    {
+        "name": "Upcycled Denim Backpack",
+        "type": "Textile",
+        "Description": "Fashionable and sustainable backpack made from upcycled denim",
+        "features": [
+            "Adjustable Straps",
+            "Spacious Interior"
+        ],
+        "price": 49.99,
+        "imageCover": "upcycledDenimBackpack.jpg",
+        "dimensions": "12 x 5 x 16 inches",
+        "weight": "1.2 pounds",
+        "seller": "Green Threads Co."
+    },
+    {
+        "name": "Recycled Glass Vase",
+        "type": "Glass",
+        "Description": "Add a touch of elegance to your home with this recycled glass vase",
+        "features": [
+            "Unique Design",
+            "Handcrafted"
+        ],
+        "price": 39.99,
+        "imageCover": "recycledGlassVase.jpg",
+        "dimensions": "8 x 8 x 12 inches",
+        "weight": "2 pounds",
+        "seller": "Artisan Creations"
+    },
+    {
+        "name": "Solar-Powered LED Garden Lights",
+        "type": "Electronic",
+        "Description": "Illuminate your garden with these energy-efficient solar-powered lights",
+        "features": [
+            "Automatic On/Off",
+            "Weather-Resistant"
+        ],
+        "price": 59.99,
+        "imageCover": "solarGardenLights.jpg",
+        "dimensions": "4 x 4 x 15 inches",
+        "weight": "0.7 pounds",
+        "seller": "SolarTech Solutions"
+    },
+    {
+        "name": "Biodegradable Bamboo Toothbrush Set",
+        "type": "Bamboo",
+        "Description": "Keep your teeth clean and help the environment with this bamboo toothbrush set",
+        "features": [
+            "Soft Bristles",
+            "Compostable Handles"
+        ],
+        "price": 14.99,
+        "imageCover": "bambooToothbrushSet.jpg",
+        "dimensions": "1 x 1 x 7 inches",
+        "weight": "0.1 pounds",
+        "seller": "Bamboo Bliss"
+    },
+    {
+        "name": "Recycled Paper Notebooks (Set of 3)",
+        "type": "Paper",
+        "Description": "Jot down your thoughts in these eco-friendly recycled paper notebooks",
+        "features": [
+            "Lined Pages",
+            "Spiral Binding"
+        ],
+        "price": 12.99,
+        "imageCover": "recycledPaperNotebooks.jpg",
+        "dimensions": "5 x 8 inches",
+        "weight": "0.5 pounds",
+        "seller": "Green Stationery Co."
+    },
+    {
+        "name": "Upcycled Tire Outdoor Ottoman",
+        "type": "Rubber",
+        "Description": "Relax in style with this outdoor ottoman made from upcycled tires",
+        "features": [
+            "Waterproof",
+            "Durable Construction"
+        ],
+        "price": 79.99,
+        "imageCover": "upcycledTireOttoman.jpg",
+        "dimensions": "18 x 18 x 12 inches",
+        "weight": "5 pounds",
+        "seller": "Tire Revival Furnishings"
+    },
+    {
+        "name": "Reusable Beeswax Food Wraps (Set of 4)",
+        "type": "Beeswax",
+        "Description": "Say goodbye to single-use plastic wrap with these reusable beeswax wraps",
+        "features": [
+            "Biodegradable",
+            "Washable and Reusable"
+        ],
+        "price": 17.99,
+        "imageCover": "beeswaxFoodWraps.jpg",
+        "dimensions": "Various Sizes",
+        "weight": "0.2 pounds",
+        "seller": "Beeswax Eco Essentials"
+    }
+]
