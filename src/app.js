@@ -12,7 +12,7 @@ const productRouter = require('./routes/productRoutes');
 const userRouter = require('./routes/userRoutes');
 const reviewRouter = require('./routes/reviewRoutes');
 const binRouter = require('./routes/communityBinRoutes');
-const workerRouter = require('./controllers/workerController');
+const workerRouter = require('./routes/workerRoutes');
 
 const app = express();
 
